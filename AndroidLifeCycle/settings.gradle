@@ -1,0 +1,1 @@
+include ':app', ':broadcastreceiver', ':alarmactivity', ':intentexplicit', ':browserfilter', ':imagepick', ':intentimplicit'

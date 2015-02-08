@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLifeCycle.iml" filepath="$PROJECT_DIR$/AndroidLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmactivity/alarmactivity.iml" filepath="$PROJECT_DIR$/alarmactivity/alarmactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/browserfilter/browserfilter.iml" filepath="$PROJECT_DIR$/browserfilter/browserfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagepick/imagepick.iml" filepath="$PROJECT_DIR$/imagepick/imagepick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentexplicit/intentexplicit.iml" filepath="$PROJECT_DIR$/intentexplicit/intentexplicit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentimplicit/intentimplicit.iml" filepath="$PROJECT_DIR$/intentimplicit/intentimplicit.iml" />
+    </modules>
+  </component>
+</project>
+
